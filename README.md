@@ -1,10 +1,8 @@
-# java-intro
+# java-login
 for java introduction
 <br>
 author - HARIOM SINGH
-<br>
-Login code in java
-<br>
+
     import java.util.HashMap;
     import java.util.Scanner;
     
